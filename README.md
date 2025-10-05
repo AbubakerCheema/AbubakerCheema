@@ -1,8 +1,8 @@
-### Hi 👋, I'm Muhammad Sufyan Haider
+### Hi 👋, I'm Muhammad Abubaker
 
 - 📖 I'm an undergraduate researcher at the Information Processing and Transmission(IPT) Lab, NUST  
-- 🧠 Exploring deep reinforcement learning for intelligent resource allocation in CR-NOMA and 6G networks  
-- 🤝 Always open to collaborate on ML, signal processing, or research-intensive projects!
+- 🧠 Exploring deep reinforcement learning for intelligent meta-surfaces and 6G networks  
+- 🤝 Always open to collaborate on ML, wireless communication, or research-intensive projects!
 
 ---
 
@@ -31,5 +31,5 @@
 
 ### 📬 Contact Me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhaider.bee22seecs@seecs.edu.pk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sufyan-71a0a328b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mabubaker.bee22seecs@seecs.edu.pk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abubaker-6077aa255/)
